@@ -1,0 +1,5 @@
+﻿  VedioSubtiltleNameChange.cpp
+c:\users\gilin\source\repos\vediosubtiltlenamechange\vediosubtiltlenamechange\vediosubtiltlenamechange.cpp(43): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\gilin\source\repos\vediosubtiltlenamechange\vediosubtiltlenamechange\vediosubtiltlenamechange.cpp(60): warning C4101: 'anyException': unreferenced local variable
+c:\users\gilin\source\repos\vediosubtiltlenamechange\vediosubtiltlenamechange\vediosubtiltlenamechange.cpp(98): warning C4101: 'anyexception': unreferenced local variable
+  VedioSubtiltleNameChange.vcxproj -> c:\users\gilin\source\repos\VedioSubtiltleNameChange\Debug\VedioSubtiltleNameChange.exe
